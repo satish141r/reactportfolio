@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reactportfolio/static/css/main.44c70aea.css",
-    "main.js": "/reactportfolio/static/js/main.8dc56353.js",
+    "main.js": "/reactportfolio/static/js/main.287307b9.js",
     "static/media/remixicon.svg?t=1681573354175": "/reactportfolio/static/media/remixicon.7b85b7f8453487681fc4.svg",
     "static/media/project4.png": "/reactportfolio/static/media/project4.84c4a1612773d228c34a.png",
     "static/media/Project1.png": "/reactportfolio/static/media/Project1.fa2c351fd62724edf140.png",
@@ -10,7 +10,7 @@
     "static/media/remixicon.ttf?t=1681573354175": "/reactportfolio/static/media/remixicon.8df75b42f93ef0e1f8aa.ttf",
     "static/media/Project3.png": "/reactportfolio/static/media/Project3.7ce402198ce8290c5da7.png",
     "static/media/pp.jpg": "/reactportfolio/static/media/pp.42f4785676adc4082f54.jpg",
-    "static/media/satishraibagiresume.pdf": "/reactportfolio/static/media/satishraibagiresume.d03037510d9fd8b8f87b.pdf",
+    "static/media/satishraibagiresume.pdf": "/reactportfolio/static/media/satishraibagiresume.f829dc8996676e132754.pdf",
     "static/media/remixicon.woff?t=1681573354175": "/reactportfolio/static/media/remixicon.56b6495e17f23a23803a.woff",
     "static/media/project6.png": "/reactportfolio/static/media/project6.0b0720b5c725ef39de96.png",
     "static/media/remixicon.woff2?t=1681573354175": "/reactportfolio/static/media/remixicon.52f02e1386dd3597bc00.woff2",
@@ -23,10 +23,10 @@
     "static/media/html.svg": "/reactportfolio/static/media/html.2e79b3d517a00415673023a919d9f89c.svg",
     "index.html": "/reactportfolio/index.html",
     "main.44c70aea.css.map": "/reactportfolio/static/css/main.44c70aea.css.map",
-    "main.8dc56353.js.map": "/reactportfolio/static/js/main.8dc56353.js.map"
+    "main.287307b9.js.map": "/reactportfolio/static/js/main.287307b9.js.map"
   },
   "entrypoints": [
     "static/css/main.44c70aea.css",
-    "static/js/main.8dc56353.js"
+    "static/js/main.287307b9.js"
   ]
 }
